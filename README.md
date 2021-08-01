@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&theme=vue&width=400px)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&theme=vue)](https://github.com/Nath-RS/github-readme-stats)
 
