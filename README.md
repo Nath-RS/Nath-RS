@@ -1,27 +1,24 @@
-### Hi there 👋
+## 🧏‍♂️Bem vindos Ao meu Perfil
+#### Olá, sou Nath-RS, futuro dev fullstack 
 
-<!--
-**Nath-RS/Nath-RS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&layout=compact&langs_count=7&theme=vue"/>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤓Faço Ciencias da Computação na FMU-Faculdades Metropolitanas Unidas
+- 🤩Meus Hobbies são a Música e a Programação, onde quero seguir Carreira Proffisional
+- 💻Já tive o meu Primeiro emprego, porém não era relacionado a programação, por isso busco uma recolocação no mercado.
+- 💨Sou Proativo, Comunicativo, e Tenho Grande fome pelo conhecimento, minha especialidade no momento é HTML5 e CSS.
+##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&theme=vue&width=400px)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&theme=vue)](https://github.com/Nath-RS/github-readme-stats)
-
-<a href="https://github.com/Nath-RS/Projetos-Faculdade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nath-RS&repo=Projetos-Faculdade &theme=vue" />
+<div>  
+  <a href="https://github.com/Nath-RS/Projetos-Faculdade">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nath-RS&repo=Projetos-Faculdade &theme=vue" />
 </a>
 <a href="https://github.com/Nath-RS/Web-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nath-RS&repo=Web-Projects &theme=vue" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nath-RS&repo=Web-Projects &theme=vue" />
 </a>
+</div>
