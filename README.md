@@ -14,11 +14,3 @@
 - 💨Sou Proativo, Comunicativo, e Tenho Grande fome pelo conhecimento, minha especialidade no momento é HTML5,Javascripst e Java, porém possuo Conhecimentos em Css e C#.
 ##
 
-<div>  
-  <a href="https://github.com/Nath-RS/Projetos-Faculdade">
-  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nath-RS&repo=Projetos-Faculdade &theme=vue" />
-</a>
-<a href="https://github.com/Nath-RS/Web-Projects">
-  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nath-RS&repo=Web-Projects &theme=vue" />
-</a>
-</div>
