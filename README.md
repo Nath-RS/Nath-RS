@@ -10,7 +10,8 @@
 
 - 🤓Faço Ciencias da Computação na UNIP- Universidade Paulista
 - 🤩Meus Hobbies são a Música e a Programação, onde quero seguir Carreira Proffisional
-- 💻Já tive o meu Primeiro emprego, porém não era relacionado a programação, por isso busco uma recolocação no mercado.
+- 💻Já tive o meu Primeiro emprego, porém não era relacionado a programação, e agora estou em uma nova jornada na SUNLEE TECNOLOGIA EM TI LTDA ME,
+onde estou iniciando a minha carreira como Desenvolverdor de Software.
 - 💨Sou Proativo, Comunicativo, e Tenho Grande fome pelo conhecimento, minha especialidade no momento é HTML5,CSS3 e C#, porém possuo Conhecimentos em Java.
 ##
 
