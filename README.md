@@ -1,5 +1,5 @@
-## 🧏‍♂️Bem vindos Ao meu Perfil
-#### Olá, sou Nath-RS, futuro dev fullstack 
+## 🧏‍♂️Welcome to my Profile
+#### Hello, i'm Nath-RS, dev fullstack Freelancer and i work at Sunlee Microsystems 
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&layout=compact&langs_count=7&theme=vue"/>
@@ -7,9 +7,9 @@
 
 ##
 
-- 🤓Bacharel em Ciencias da Computação.
-- 🤩Meus Hobbies são a Música e a Programação, onde estou seguindo Carreira Proffisional
-- 💻Trabalho como Desenvolvedor de Software na SUNLEE TECNOLOGIA EM TI LTDA ME, na modalidade PJ, onde Realizo Suporte e desenvolvimento de projetos Que utilizam as ferramentas: IBM Steling Connect Direct e Mq, e tem como foco a utilização da linguagem de programação C#.Tambem aceito trabalhos externos como freeelancer.
-- 💨Sou Proativo, Comunicativo, e Tenho Grande fome pelo conhecimento, minha especialidade no momento é HTML5,CSS3 e C#, porém possuo Conhecimentos em Java.
+- 🤓Bachelor in computer science
+- 🤩My Hobbies is the Music and software programming, where I have been a professional for 2 years.
+- 💻i have a job the Software Developer in Sunlee TECNOLOGIA EM TI LTDA ME, in the PJ modality, where I provide support and development of projects that use the tools: IBM Steling Connect Direct and Mq, and focus on the use of the C# programming language. and in my spare time I accept external work as a Fullstack freelancer.
+- 💨i am Proactive, Communicative, and I have a great hunger for knowledge, my specialty at the moment is HTML5, CSS3, Javascript, in the Front-End and Back-End, specializing in C#, Java, Mysql, SQL Server, but I also have knowledge in other languages ​​such as Python, C, C++, and frameworks such as React, React.native, Bootstrap, Node.Js, .Net, ASP.Net
 ##
 
