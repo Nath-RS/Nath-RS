@@ -1,5 +1,5 @@
 <h1> 🧏‍♂️Welcome to my Profile </h1>
-<h3> Hello, i'm Nath-RS, dev fullstack Freelancer and i work at Sunlee Microsystems </h3> 
+<h3> Hello, i'm Nath-RS, Software Developer </h3> 
 
 - 🤓Bachelor in computer science
 - 🤩My Hobbies is the Music and software programming, where I have been a professional for 3 years and 4 months.
