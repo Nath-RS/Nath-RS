@@ -1,15 +1,19 @@
-## 🧏‍♂️Welcome to my Profile
-#### Hello, i'm Nath-RS, dev fullstack Freelancer and i work at Sunlee Microsystems 
-
-<div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&layout=compact&langs_count=7&theme=vue"/>
-</div>
-
-##
+<h1> 🧏‍♂️Welcome to my Profile </h1>
+<h3> Hello, i'm Nath-RS, dev fullstack Freelancer and i work at Sunlee Microsystems </h3> 
 
 - 🤓Bachelor in computer science
-- 🤩My Hobbies is the Music and software programming, where I have been a professional for 2 years and 8 months.
-- 💻i have a job the Software Developer in Sunlee TECNOLOGIA EM TI LTDA ME, in the PJ modality, where I provide support and development of projects that use the tools: IBM Steling Connect Direct and Mq, and focus on the use of the C# programming language. and in my spare time I accept external work as a Fullstack freelancer.
-- 💨i am Proactive, Communicative, and I have a great hunger for knowledge, my specialty at the moment is HTML5, CSS3, Javascript, in the Front-End and Back-End, specializing in C#, Java, Mysql, SQL Server, but I also have knowledge in other languages ​​such as Python, C, C++,php, and frameworks such as React, React.native, Bootstrap, Node.Js, .Net, ASP.Net
-##
+- 🤩My Hobbies is the Music and software programming, where I have been a professional for 3 years and 4 months.
+<div>
+  <a href="https://github.com/Nath-RS">
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Nath-RS?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&layout=compact&lang_count=16&theme=tokyonight"/>
+</div>
 
+<h2>Contacts! 📱</h2>
+<a href="https://www.instagram.com/nathjan_souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/nathan-rodrigues-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h2>Technology I study and use daily 🤓😵😎</h2> 
+<div style="display: inline_block"><br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=visualstudio,dotnet,aws,cs,c,unity,react,js,html,css,bootstrap,git,mysql,linux)](https://skillicons.dev)
+</div>
