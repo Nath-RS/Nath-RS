@@ -5,7 +5,7 @@
 - 🤩My Hobbies is the Music and software programming, where I have been a professional for 3 years and 4 months.
 <div>
   <a href="https://github.com/Nath-RS">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nath-RS&cardType=level&theme=dark&preferLogin=true&show_icons=true&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nath-RS&cardType=level&theme=dark&preferLogin=true&show_icons=true&include_all_commits=true&v=2"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos"/>
 </div>
 
