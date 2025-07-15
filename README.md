@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Nath-RS">
-  <img width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&border_color=#000000"/>
+  <img width="470em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&border_color=#000000"/>
 </div>
 
 <h2>Contacts! 📱</h2>
