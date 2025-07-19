@@ -10,12 +10,12 @@
   <div>
   <table>
     <tr align="center">
-      <td><h3>Resume Contribuition</h3></td> 
+      <td>Resume Contribuition</td> 
     </tr>
     <tr>
     <td>
       <a href="https://github.com/Nath-RS">
-      <img height="230em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true"/>
+      <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true" />
       </a>
   </td>  
     </tr>
@@ -24,12 +24,12 @@
 
   <table>
     <tr align="center">
-      <td><p>Nath-RS Stats </p></td>
-      <td><p> Languages Experience </p></td> 
+      <td>Nath-RS Stats</td>
+      <td>Languages Experience</td> 
     </tr>
     <tr>
-      <td><img src="./stats.svg"/></td>
-      <td><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&hide_border=true"/></td>
+      <td> <a href="https://github.com/Nath-RS"> <img src="./stats.svg"/>  </a> </td>
+      <td> <a href="https://github.com/Nath-RS"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&hide_border=true"/> </a> </td>
     </tr>
   </table>
 </div>
