@@ -1,8 +1,6 @@
 <h1> 🧏‍♂️Welcome to my Profile </h1>
 <h3> Hello, i'm Nath-RS, Software Developer </h3>
 
-![GitHub Stats](./stats.svg)
-
 
 - 🤓Bachelor in computer science
 - 🤩My Hobbies is the Music and software programming, where I have been a professional for 3 years and 4 months.
@@ -12,8 +10,9 @@
   <div>
   <img height="230em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true"/>
   </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nath-RS&theme=dark&include_all_commits=false&count_private=false&hide=issues,contribuitions&hide_border=true&custom_title=Nath-RS_Rank&" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&hide_border=true"/>
+    
+  ![GitHub Stats](./stats.svg)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&hide_border=true"/>
 </div>
 
 <h2>Contacts! 📱</h2>
