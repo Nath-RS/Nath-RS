@@ -4,10 +4,13 @@
 - 🤓Bachelor in computer science
 - 🤩My Hobbies is the Music and software programming, where I have been a professional for 3 years and 4 months.
 
-<div>
+<div align="center">
   <a href="https://github.com/Nath-RS">
-  <img width="470em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&border_color=#000000"/>
+    <div>
+  <img height="230em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true"/>
+    </div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&border_color=#000000"/>
 </div>
 
 <h2>Contacts! 📱</h2>
