@@ -6,13 +6,32 @@
 - 🤩My Hobbies is the Music and software programming, where I have been a professional for 3 years and 4 months.
 
 <div align="center">
-  <a href="https://github.com/Nath-RS">
+  
   <div>
-  <img height="230em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true"/>
+  <table>
+    <tr align="center">
+      <td><h3>Resume Contribuition</h3></td> 
+    </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/Nath-RS">
+      <img height="230em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true"/>
+      </a>
+  </td>  
+    </tr>
+  </table>
   </div>
-    
-  ![GitHub Stats](./stats.svg)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&hide_border=true"/>
+
+  <table>
+    <tr align="center">
+      <td><p>Nath-RS Stats </p></td>
+      <td><p> Languages Experience </p></td> 
+    </tr>
+    <tr>
+      <td><img src="./stats.svg"/></td>
+      <td><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&hide_progress=false&layout=compact&lang_count=20&theme=dark&&exclude_repo=QualidadeSW,Java-Codigos&hide_border=true"/></td>
+    </tr>
+  </table>
 </div>
 
 <h2>Contacts! 📱</h2>
