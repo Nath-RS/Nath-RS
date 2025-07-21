@@ -10,12 +10,12 @@
   <div>
   <table>
     <tr align="center">
-      <td>RESUME CONTRIBUITION</td> 
+      <td>NATH-RS STATS</td> 
     </tr>
     <tr>
     <td>
       <a href="https://github.com/Nath-RS">
-      <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true" />
+      <img  height="190em"  src="https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&hide=commits&hide_border=true&theme=dark&hide_title=true&title_color=FFA500&cache_seconds=1800" />
       </a>
   </td>  
     </tr>
@@ -24,12 +24,12 @@
 
   <table>
     <tr align="center">
-      <td>NATH-RS STATS</td>
+      <td>RESUME CONTRIBUITION</td>
       <td>TOP LANGUAGES </td> 
     </tr>
     <tr>
-      <td>  <img  height="170em"  src="https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&hide=commits&hide_border=true&theme=dark&hide_title=true&title_color=FFA500&cache_seconds=1800" /> </a> </td>
-      <td> <a href="https://github.com/Nath-RS"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&layout=compact&lang_count=3&theme=dark&exclude_repo=QualidadeSW&hide_border=true&hide_title=true"/> </a> </td>
+      <td>  <img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true" /> </a> </td>
+      <td> <a href="https://github.com/Nath-RS"> <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&layout=compact&lang_count=3&theme=dark&exclude_repo=QualidadeSW&hide_border=true&hide_title=true"/> </a> </td>
     </tr>
   </table>
 </div>
