@@ -28,7 +28,7 @@
 
 <div align="left">
   <a href="https://github.com/Nath-RS">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true" />
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Nath-RS&theme=dark&hide_border=true&tu=ai" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nath-RS&layout=donut&langs_count=5&theme=dark&exclude_repo=QualidadeSW&hide_border=true&custom_title=Top%20Languages" />
  <img src="https://github-profile-trophy.vercel.app?username=Nath-RS&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
     
