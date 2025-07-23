@@ -22,7 +22,7 @@
 
 <div align="left">
   <a href="https://github.com/Nath-RS">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&hide=commits&hide_border=true&theme=dark&title_color=FFA500&cache_seconds=1800&custom_title=Nath%20Rank" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nath-RS&show_icons=true&hide=commits&hide_border=true&theme=dark&title_color=FFA500&cache_seconds=1800&custom_title=Nath%20Rank&top=laa" />
   </a>
 </div>
 
