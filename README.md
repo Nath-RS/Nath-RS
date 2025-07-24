@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/v2/D4D16AQE5aQJvKeF3Wg/profile-displaybackgroundimage-shrink_350_1400/B4DZe0zRfmGkAY-/0/1751085030443?e=1755734400&v=beta&t=Nu34npV4wg9RP7-70LJW8o64ShLQI6vHMujUwhJQpGw"  />
+  <img height="250" src="/img/PictureSelf.png"  />
 </div>
 
 ###
