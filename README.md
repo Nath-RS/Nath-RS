@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 </a>
 </div>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">📱 Contacts!</h3>
+<h2 align="left">📱 Contacts!</h3>
 
 ###
 
@@ -61,6 +61,7 @@
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/nathjan_souza/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:nathandesouzarodrigues@gmail.com)
 
+<img src="/img/Late Night Focused on Screen.png"  />
 </div>
 
 ###
