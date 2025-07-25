@@ -73,7 +73,7 @@
 <div align="left">
   
   <img with="250" height="200" src="/Certifications/diplomaUnip-Cienciasdacomputacao.jpg"/>
-  <img with="250" height="200" src="/Certifications/Certificado-C#Completo.jpg"/>
+  <img with="250" height="200" src="/Certifications/Certificado-CSCompleto.jpg"/>
   <img with="250" height="200" src="/Certifications/Html-DIO-Bootcamp.png"/>
 </div>
 
