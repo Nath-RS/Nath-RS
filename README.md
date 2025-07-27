@@ -51,6 +51,19 @@
 
 ###
 
+<h2 align="left">📘📖 Certifications</h2>
+
+###
+
+<div align="left">
+  
+  <img with="250" height="200" src="/Certifications/diplomaUnip-Cienciasdacomputacao.jpg"/>
+  <img with="250" height="200" src="/Certifications/Certificado-CSCompleto.jpg"/>
+  <img with="250" height="200" src="/Certifications/Html-DIO-Bootcamp.png"/>
+</div>
+
+###
+
 <h2 align="left">📱 Contacts!</h3>
 
 ###
@@ -62,19 +75,6 @@
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:nathandesouzarodrigues@gmail.com)
 
 <img src="/img/Late Night Focused on Screen.png"  />
-</div>
-
-###
-
-<h2 align="left">📘📖 Certifications</h2>
-
-###
-
-<div align="left">
-  
-  <img with="250" height="200" src="/Certifications/diplomaUnip-Cienciasdacomputacao.jpg"/>
-  <img with="250" height="200" src="/Certifications/Certificado-CSCompleto.jpg"/>
-  <img with="250" height="200" src="/Certifications/Html-DIO-Bootcamp.png"/>
 </div>
 
 ###
