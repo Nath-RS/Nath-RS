@@ -46,7 +46,7 @@
 ###
 
 <p align="left">
-  <img width="100%"src="https://skillicons.dev/icons?i=visualstudio,unity,cs,c,vscode,html,css,bootstrap,js,react,java,linux,git,github,mysql,aws,azure" />
+  <img width="100%"src="https://skillicons.dev/icons?i=visualstudio,unity,cs,c,vscode,html,css,bootstrap,js,react,java,linux,windows,git,github,mysql,aws,azure" />
 </p>
 
 ###
