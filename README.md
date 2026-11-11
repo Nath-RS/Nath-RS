@@ -20,12 +20,26 @@ I'm a full-time software developer with a Bachelor's degree in Computer Science.
 
 ## 🚀 Featured Projects
 
+### 🤖 agit — Git automation agent
+Command-line tool that automates day-to-day Git workflows across a team's repositories:
+- **Batch pull requests** — finds every branch you changed in the last *N* days and opens PRs to the target branch, checking merge conflicts, ahead/behind status and existing PRs first.
+- **Database change detection** — scans a branch diff for `.sql` files, inline DDL, EF migrations and new tables/columns/procedures, maps them to the affected databases, and generates a ready-to-send DBA task.
+- **Code ownership** — shows who last changed a file or line, what changed and when it reached a branch.
+
+`C#` `.NET 10` `Git` `GitHub API` `CLI` &nbsp;·&nbsp; 🔒 *Private repository, code available on request*
+
+### 📄 PdfForge — DOCX to PDF conversion API
+REST API that converts Word documents (DOCX) to PDF using a LibreOffice conversion engine, packaged with Docker for easy deployment.
+
+`C#` `ASP.NET Core` `LibreOffice` `Docker` &nbsp;·&nbsp; 🔒 *Private repository, code available on request*
+
+### 📂 Other Projects
+
 | Project | Description | Stack |
 |---|---|---|
 | [**ProductAPI**](https://github.com/Nath-RS/ProductAPI) | Full-stack product catalog: REST API documented with Swagger, service layer built on SOLID and dependency injection, consumed by a React front end. | .NET 8 · EF Core · React · Vite |
 | [**DesignPatterns**](https://github.com/Nath-RS/DesignPatterns) | Study and implementation of software design patterns in C#. | C# |
 | [**ReadAssist**](https://github.com/Nath-RS/ReadAssist) | Desktop reading assistant for everyday readers. | C# · WPF · .NET 8 |
-| [**DunaSol**](https://github.com/Nath-RS/DunaSol) | Sample hotel management application. | C# |
 
 ## 📊 GitHub Stats
 
